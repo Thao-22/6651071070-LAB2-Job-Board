@@ -12,7 +12,7 @@ export function Header({ theme, onToggleTheme }: Props) {
     <header className="sticky top-0 z-10 border-b border-slate-200 bg-white dark:border-slate-700 dark:bg-slate-800">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <Link to="/" className="text-lg font-bold text-primary-dark dark:text-emerald-400">
-          ViệcLàm Xanh
+          ViệcLàm Nhanh
         </Link>
         <button
           type="button"

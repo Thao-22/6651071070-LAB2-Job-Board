@@ -8,7 +8,7 @@ export function DetailPage() {
   const job = jobs.find((j) => String(j.id) === id)
 
   useEffect(() => {
-    document.title = job ? `${job.title} - ${job.company}` : 'Không tìm thấy - ViệcLàm Xanh'
+    document.title = job ? `${job.title} - ${job.company}` : 'Không tìm thấy - ViệcLàm Nhanh'
   }, [job])
 
   const backLink = (

@@ -16,7 +16,7 @@ export function ListPage() {
   const [page, setPage] = useState(1)
 
   useEffect(() => {
-    document.title = 'ViệcLàm Xanh - Tìm việc làm'
+    document.title = 'ViệcLàm Nhanh - Tìm việc làm'
   }, [])
 
   // Debounce 300ms cho ô tìm kiếm
