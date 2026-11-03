@@ -1,0 +1,750 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer (React)",
+    "company": "Nova Tech",
+    "location": "TP.HCM",
+    "type": "Toàn thời gian",
+    "level": "Junior",
+    "salaryMin": 15000000,
+    "salaryMax": 25000000,
+    "skills": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "postedAt": "2026-10-29",
+    "description": "Xây dựng giao diện cho sản phẩm SaaS quản lý bán hàng, phối hợp chặt chẽ với designer và backend."
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer (Node.js)",
+    "company": "Lạc Việt Software",
+    "location": "Hà Nội",
+    "type": "Toàn thời gian",
+    "level": "Middle",
+    "salaryMin": 25000000,
+    "salaryMax": 40000000,
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "postedAt": "2026-10-28",
+    "description": "Thiết kế và vận hành API cho hệ thống thanh toán, tối ưu truy vấn và viết tài liệu kỹ thuật."
+  },
+  {
+    "id": 3,
+    "title": "Thực tập sinh Frontend",
+    "company": "Sao Mai Studio",
+    "location": "Đà Nẵng",
+    "type": "Thực tập",
+    "level": "Thực tập",
+    "salaryMin": 3000000,
+    "salaryMax": 5000000,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "postedAt": "2026-10-27",
+    "description": "Hỗ trợ đội web dựng trang landing page, được mentor kèm cặp trong 3 tháng."
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "Pixel Garden",
+    "location": "TP.HCM",
+    "type": "Toàn thời gian",
+    "level": "Middle",
+    "salaryMin": 18000000,
+    "salaryMax": 30000000,
+    "skills": [
+      "Figma",
+      "Design System",
+      "Prototyping"
+    ],
+    "postedAt": "2026-10-26",
+    "description": "Thiết kế trải nghiệm ứng dụng đặt lịch khám bệnh, xây dựng và duy trì design system."
+  },
+  {
+    "id": 5,
+    "title": "QA Engineer",
+    "company": "Hoàng Long Digital",
+    "location": "Hà Nội",
+    "type": "Toàn thời gian",
+    "level": "Junior",
+    "salaryMin": 12000000,
+    "salaryMax": 20000000,
+    "skills": [
+      "Cypress",
+      "Test case",
+      "Jira"
+    ],
+    "postedAt": "2026-10-25",
+    "description": "Viết test case, kiểm thử tự động và theo dõi lỗi cho các dự án thương mại điện tử."
+  },
+  {
+    "id": 6,
+    "title": "DevOps Engineer",
+    "company": "CloudNam",
+    "location": "TP.HCM",
+    "type": "Toàn thời gian",
+    "level": "Senior",
+    "salaryMin": 45000000,
+    "salaryMax": 70000000,
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "postedAt": "2026-10-24",
+    "description": "Quản lý hạ tầng đám mây, xây dựng pipeline CI/CD và giám sát hệ thống 24/7."
+  },
+  {
+    "id": 7,
+    "title": "Data Analyst",
+    "company": "Bến Thành Retail",
+    "location": "TP.HCM",
+    "type": "Toàn thời gian",
+    "level": "Junior",
+    "salaryMin": 14000000,
+    "salaryMax": 22000000,
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "postedAt": "2026-10-23",
+    "description": "Phân tích dữ liệu bán hàng chuỗi cửa hàng, xây dựng dashboard báo cáo hằng tuần."
+  },
+  {
+    "id": 8,
+    "title": "Mobile Developer (Flutter)",
+    "company": "Mekong Apps",
+    "location": "Cần Thơ",
+    "type": "Toàn thời gian",
+    "level": "Middle",
+    "salaryMin": 20000000,
+    "salaryMax": 32000000,
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ],
+    "postedAt": "2026-10-22",
+    "description": "Phát triển ứng dụng giao hàng nông sản trên Android và iOS với một codebase."
+  },
+  {
+    "id": 9,
+    "title": "Content Marketing (bán thời gian)",
+    "company": "Hồng Hà Media",
+    "location": "Hà Nội",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 6000000,
+    "salaryMax": 10000000,
+    "skills": [
+      "SEO",
+      "Copywriting",
+      "Canva"
+    ],
+    "postedAt": "2026-10-21",
+    "description": "Viết bài blog và kịch bản video ngắn, làm việc linh hoạt 20 giờ mỗi tuần."
+  },
+  {
+    "id": 10,
+    "title": "Fullstack Developer (làm từ xa)",
+    "company": "Tân Á Labs",
+    "location": "TP.HCM",
+    "type": "Từ xa",
+    "level": "Senior",
+    "salaryMin": 40000000,
+    "salaryMax": 65000000,
+    "skills": [
+      "React",
+      "Node.js",
+      "GraphQL"
+    ],
+    "postedAt": "2026-10-20",
+    "description": "Làm trọn vòng đời tính năng cho nền tảng học ngoại ngữ, họp đồng bộ hai buổi mỗi tuần."
+  },
+  {
+    "id": 11,
+    "title": "Kỹ sư AI/Machine Learning",
+    "company": "Rồng Xanh AI",
+    "location": "Hà Nội",
+    "type": "Toàn thời gian",
+    "level": "Senior",
+    "salaryMin": 50000000,
+    "salaryMax": 80000000,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "MLOps"
+    ],
+    "postedAt": "2026-10-19",
+    "description": "Huấn luyện và triển khai mô hình nhận dạng hình ảnh cho dây chuyền sản xuất."
+  },
+  {
+    "id": 12,
+    "title": "Nhân viên Chăm sóc khách hàng",
+    "company": "An Phát Telecom",
+    "location": "Đà Nẵng",
+    "type": "Toàn thời gian",
+    "level": "Junior",
+    "salaryMin": 8000000,
+    "salaryMax": 12000000,
+    "skills": [
+      "Giao tiếp",
+      "CRM",
+      "Tiếng Anh"
+    ],
+    "postedAt": "2026-10-18",
+    "description": "Hỗ trợ khách hàng qua điện thoại và chat, xử lý khiếu nại trong ngày."
+  },
+  {
+    "id": 13,
+    "title": "Kế toán tổng hợp",
+    "company": "Phú Gia Trading",
+    "location": "Cần Thơ",
+    "type": "Toàn thời gian",
+    "level": "Middle",
+    "salaryMin": 14000000,
+    "salaryMax": 20000000,
+    "skills": [
+      "Kế toán",
+      "MISA",
+      "Thuế"
+    ],
+    "postedAt": "2026-10-17",
+    "description": "Lập báo cáo tài chính, kê khai thuế và đối chiếu công nợ hằng tháng."
+  },
+  {
+    "id": 14,
+    "title": "Product Manager",
+    "company": "Sáng Tạo Số",
+    "location": "TP.HCM",
+    "type": "Toàn thời gian",
+    "level": "Senior",
+    "salaryMin": 45000000,
+    "salaryMax": 75000000,
+    "skills": [
+      "Roadmap",
+      "Agile",
+      "Phân tích dữ liệu"
+    ],
+    "postedAt": "2026-10-16",
+    "description": "Dẫn dắt sản phẩm ví điện tử, làm việc với đội kỹ thuật và kinh doanh để ra mắt tính năng mới."
+  },
+  {
+    "id": 15,
+    "title": "Thực tập sinh Marketing",
+    "company": "Hương Sen Foods",
+    "location": "Huế",
+    "type": "Thực tập",
+    "level": "Thực tập",
+    "salaryMin": 2000000,
+    "salaryMax": 4000000,
+    "skills": [
+      "Facebook Ads",
+      "Canva",
+      "Excel"
+    ],
+    "postedAt": "2026-10-15",
+    "description": "Hỗ trợ chạy quảng cáo và quản lý fanpage cho thương hiệu thực phẩm sạch."
+  },
+  {
+    "id": 16,
+    "title": "Giảng viên Lập trình (bán thời gian)",
+    "company": "CodeSchool Việt",
+    "location": "Đà Nẵng",
+    "type": "Bán thời gian",
+    "level": "Middle",
+    "salaryMin": 10000000,
+    "salaryMax": 18000000,
+    "skills": [
+      "JavaScript",
+      "Giảng dạy",
+      "Git"
+    ],
+    "postedAt": "2026-10-14",
+    "description": "Dạy lớp JavaScript buổi tối cho người đi làm, chấm bài và hỗ trợ học viên."
+  },
+  {
+    "id": 17,
+    "title": "Kỹ sư An toàn thông tin",
+    "company": "Bảo Minh Security",
+    "location": "Hà Nội",
+    "type": "Toàn thời gian",
+    "level": "Senior",
+    "salaryMin": 40000000,
+    "salaryMax": 60000000,
+    "skills": [
+      "Pentest",
+      "SIEM",
+      "ISO 27001"
+    ],
+    "postedAt": "2026-10-13",
+    "description": "Đánh giá lỗ hổng, giám sát sự cố và tư vấn chính sách bảo mật cho khách hàng ngân hàng."
+  },
+  {
+    "id": 18,
+    "title": "Game Developer (Unity)",
+    "company": "Lửa Việt Games",
+    "location": "TP.HCM",
+    "type": "Toàn thời gian",
+    "level": "Middle",
+    "salaryMin": 22000000,
+    "salaryMax": 35000000,
+    "skills": [
+      "Unity",
+      "C#",
+      "Game design"
+    ],
+    "postedAt": "2026-10-12",
+    "description": "Lập trình gameplay cho trò chơi di động thể loại phiêu lưu, tối ưu hiệu năng trên máy cấu hình thấp."
+  },
+  {
+    "id": 19,
+    "title": "Chuyên viên Tuyển dụng",
+    "company": "Nhân Lực Số",
+    "location": "TP.HCM",
+    "type": "Toàn thời gian",
+    "level": "Junior",
+    "salaryMin": 12000000,
+    "salaryMax": 18000000,
+    "skills": [
+      "Tuyển dụng",
+      "LinkedIn",
+      "Phỏng vấn"
+    ],
+    "postedAt": "2026-10-11",
+    "description": "Tìm kiếm ứng viên IT, sắp xếp phỏng vấn và chăm sóc ứng viên suốt quá trình."
+  },
+  {
+    "id": 20,
+    "title": "Biên tập viên Video (từ xa)",
+    "company": "Gió Biển Studio",
+    "location": "Đà Nẵng",
+    "type": "Từ xa",
+    "level": "Junior",
+    "salaryMin": 9000000,
+    "salaryMax": 15000000,
+    "skills": [
+      "Premiere Pro",
+      "After Effects",
+      "Kể chuyện"
+    ],
+    "postedAt": "2026-10-10",
+    "description": "Dựng video quảng bá du lịch từ footage có sẵn, nhận bài và nộp sản phẩm qua mạng."
+  },
+  {
+    "id": 21,
+    "title": "Business Analyst",
+    "company": "FinTrust",
+    "location": "Hà Nội",
+    "type": "Toàn thời gian",
+    "level": "Middle",
+    "salaryMin": 25000000,
+    "salaryMax": 38000000,
+    "skills": [
+      "BPMN",
+      "SQL",
+      "Viết tài liệu"
+    ],
+    "postedAt": "2026-10-09",
+    "description": "Thu thập yêu cầu, viết tài liệu nghiệp vụ và làm cầu nối giữa khách hàng với đội phát triển."
+  },
+  {
+    "id": 22,
+    "title": "Kỹ sư Hệ thống mạng",
+    "company": "Thiên Long Network",
+    "location": "Cần Thơ",
+    "type": "Toàn thời gian",
+    "level": "Junior",
+    "salaryMin": 13000000,
+    "salaryMax": 19000000,
+    "skills": [
+      "Cisco",
+      "Linux",
+      "VPN"
+    ],
+    "postedAt": "2026-10-08",
+    "description": "Cấu hình, giám sát hệ thống mạng và xử lý sự cố cho chi nhánh khu vực miền Tây."
+  },
+  {
+    "id": 23,
+    "title": "Thực tập sinh Data",
+    "company": "Vạn Lợi Logistics",
+    "location": "TP.HCM",
+    "type": "Thực tập",
+    "level": "Thực tập",
+    "salaryMin": 4000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas"
+    ],
+    "postedAt": "2026-10-07",
+    "description": "Làm sạch dữ liệu vận chuyển và hỗ trợ xây báo cáo tuyến đường tối ưu."
+  },
+  {
+    "id": 24,
+    "title": "Senior Frontend (Vue)",
+    "company": "Hải Đăng Tech",
+    "location": "Huế",
+    "type": "Từ xa",
+    "level": "Senior",
+    "salaryMin": 38000000,
+    "salaryMax": 58000000,
+    "skills": [
+      "Vue",
+      "TypeScript",
+      "Vite"
+    ],
+    "postedAt": "2026-10-06",
+    "description": "Xây dựng kiến trúc giao diện cho nền tảng quản lý khách sạn, review code và dẫn dắt nhóm 4 người."
+  },
+  {
+    "id": 25,
+    "title": "Phục vụ quán cà phê",
+    "company": "Cà Phê Hẻm Xanh",
+    "location": "TP.HCM",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 4000000,
+    "salaryMax": 7000000,
+    "skills": [
+      "Giao tiếp",
+      "Nhanh nhẹn",
+      "Làm việc nhóm"
+    ],
+    "postedAt": "2026-11-02",
+    "description": "Order, mang đồ uống và giữ quán sạch sẽ. Ca xoay 4 giờ, phù hợp sinh viên."
+  },
+  {
+    "id": 26,
+    "title": "Phục vụ nhà hàng (ca tối)",
+    "company": "Nhà hàng Sen Vàng",
+    "location": "Hà Nội",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 5000000,
+    "salaryMax": 8000000,
+    "skills": [
+      "Phục vụ bàn",
+      "Giao tiếp",
+      "Chịu áp lực"
+    ],
+    "postedAt": "2026-11-01",
+    "description": "Đón khách, ghi món và dọn bàn trong ca 17:00–22:00, có hỗ trợ bữa ăn ca."
+  },
+  {
+    "id": 27,
+    "title": "Gia sư Toán lớp 9",
+    "company": "Trung tâm Khai Trí",
+    "location": "Đà Nẵng",
+    "type": "Bán thời gian",
+    "level": "Middle",
+    "salaryMin": 4000000,
+    "salaryMax": 8000000,
+    "skills": [
+      "Toán THCS",
+      "Kiên nhẫn",
+      "Soạn giáo án"
+    ],
+    "postedAt": "2026-10-31",
+    "description": "Dạy kèm nhóm nhỏ 3–5 học sinh, ôn thi vào lớp 10, lịch học tối thứ 2, 4, 6."
+  },
+  {
+    "id": 28,
+    "title": "Gia sư Tiếng Anh giao tiếp",
+    "company": "English Corner",
+    "location": "TP.HCM",
+    "type": "Bán thời gian",
+    "level": "Middle",
+    "salaryMin": 6000000,
+    "salaryMax": 12000000,
+    "skills": [
+      "IELTS",
+      "Giao tiếp",
+      "Giảng dạy"
+    ],
+    "postedAt": "2026-10-30",
+    "description": "Dạy giao tiếp cho học sinh cấp 2 và người đi làm, lương tính theo buổi dạy."
+  },
+  {
+    "id": 29,
+    "title": "Pha chế (barista)",
+    "company": "Trạm Dừng Coffee",
+    "location": "Cần Thơ",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 5000000,
+    "salaryMax": 8000000,
+    "skills": [
+      "Pha chế",
+      "Latte art",
+      "Vệ sinh thực phẩm"
+    ],
+    "postedAt": "2026-11-02",
+    "description": "Pha chế đồ uống theo công thức của quán, được đào tạo từ đầu nếu chưa có kinh nghiệm."
+  },
+  {
+    "id": 30,
+    "title": "Nhân viên cửa hàng tiện lợi",
+    "company": "Mini Mart 24h",
+    "location": "Hà Nội",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 4000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Thu ngân",
+      "Sắp xếp hàng",
+      "Cẩn thận"
+    ],
+    "postedAt": "2026-11-01",
+    "description": "Thu ngân, sắp xếp hàng lên kệ và kiểm tra hạn sử dụng. Có ca sáng, chiều và đêm."
+  },
+  {
+    "id": 31,
+    "title": "Shipper giao đồ ăn",
+    "company": "Giao Nhanh Express",
+    "location": "TP.HCM",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 6000000,
+    "salaryMax": 12000000,
+    "skills": [
+      "Xe máy",
+      "Biết đường",
+      "Giao tiếp"
+    ],
+    "postedAt": "2026-10-31",
+    "description": "Nhận đơn qua ứng dụng và giao trong khu vực quận 1, 3, Bình Thạnh. Tự chọn giờ làm."
+  },
+  {
+    "id": 32,
+    "title": "Thu ngân siêu thị",
+    "company": "Siêu thị Gia Đình",
+    "location": "Huế",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 4000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Thu ngân",
+      "Tính toán",
+      "Cẩn thận"
+    ],
+    "postedAt": "2026-10-30",
+    "description": "Tính tiền, đóng gói hàng và hỗ trợ khách thanh toán, làm theo ca 5 giờ."
+  },
+  {
+    "id": 33,
+    "title": "Trợ giảng lớp tiếng Nhật",
+    "company": "Sakura Academy",
+    "location": "Đà Nẵng",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 5000000,
+    "salaryMax": 9000000,
+    "skills": [
+      "Tiếng Nhật N3",
+      "Hỗ trợ lớp",
+      "Giao tiếp"
+    ],
+    "postedAt": "2026-11-02",
+    "description": "Hỗ trợ giáo viên chấm bài, kèm học viên sơ cấp luyện nói vào buổi tối."
+  },
+  {
+    "id": 34,
+    "title": "PG sự kiện cuối tuần",
+    "company": "Sự Kiện Ánh Dương",
+    "location": "TP.HCM",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 3000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Giao tiếp",
+      "Thuyết phục",
+      "Chịu nắng"
+    ],
+    "postedAt": "2026-11-01",
+    "description": "Giới thiệu sản phẩm tại trung tâm thương mại, trả lương theo ngày, làm thứ 7 và chủ nhật."
+  },
+  {
+    "id": 35,
+    "title": "Nhân viên bán quần áo",
+    "company": "Thời Trang Mây",
+    "location": "Hà Nội",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 4000000,
+    "salaryMax": 7000000,
+    "skills": [
+      "Tư vấn khách",
+      "Sắp xếp kệ",
+      "Bán hàng"
+    ],
+    "postedAt": "2026-10-31",
+    "description": "Tư vấn phối đồ, gấp và sắp xếp hàng, có hoa hồng theo doanh số."
+  },
+  {
+    "id": 36,
+    "title": "Phụ bếp nhà hàng",
+    "company": "Bếp Nhà Ngoại",
+    "location": "Cần Thơ",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 5000000,
+    "salaryMax": 8000000,
+    "skills": [
+      "Sơ chế",
+      "Vệ sinh bếp",
+      "Chịu áp lực"
+    ],
+    "postedAt": "2026-10-30",
+    "description": "Sơ chế nguyên liệu, phụ bếp chính trong giờ cao điểm trưa và tối."
+  },
+  {
+    "id": 37,
+    "title": "Trực page bán hàng online",
+    "company": "Shop Hoa Quả Sạch",
+    "location": "TP.HCM",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 3000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Chat khách",
+      "Gõ nhanh",
+      "Chốt đơn"
+    ],
+    "postedAt": "2026-11-02",
+    "description": "Trả lời tin nhắn khách trên fanpage, chốt đơn và báo kho giao hàng. Làm 4 giờ mỗi ngày."
+  },
+  {
+    "id": 38,
+    "title": "Gia sư Piano",
+    "company": "Nhạc Viện Mini",
+    "location": "Hà Nội",
+    "type": "Bán thời gian",
+    "level": "Middle",
+    "salaryMin": 6000000,
+    "salaryMax": 10000000,
+    "skills": [
+      "Piano",
+      "Sư phạm âm nhạc",
+      "Kiên nhẫn"
+    ],
+    "postedAt": "2026-11-01",
+    "description": "Dạy piano cơ bản cho trẻ 6–12 tuổi, mỗi buổi 45 phút, lịch học linh hoạt."
+  },
+  {
+    "id": 39,
+    "title": "Nhân viên rạp chiếu phim",
+    "company": "Rạp Ngôi Sao",
+    "location": "Đà Nẵng",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 4000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Soát vé",
+      "Phục vụ",
+      "Ca tối cuối tuần"
+    ],
+    "postedAt": "2026-10-31",
+    "description": "Soát vé, bán bắp nước và dọn phòng chiếu, ưu tiên làm tối cuối tuần."
+  },
+  {
+    "id": 40,
+    "title": "Nhân viên kho đóng gói",
+    "company": "Kho Vận Tốc Độ",
+    "location": "TP.HCM",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 5000000,
+    "salaryMax": 8000000,
+    "skills": [
+      "Đóng gói",
+      "Kiểm hàng",
+      "Sức khỏe tốt"
+    ],
+    "postedAt": "2026-10-30",
+    "description": "Nhặt hàng, đóng gói đơn thương mại điện tử theo ca sáng hoặc chiều."
+  },
+  {
+    "id": 41,
+    "title": "Lễ tân khách sạn mini",
+    "company": "Khách sạn Hoa Mai",
+    "location": "Huế",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 5000000,
+    "salaryMax": 8000000,
+    "skills": [
+      "Lễ tân",
+      "Tiếng Anh",
+      "Giao tiếp"
+    ],
+    "postedAt": "2026-11-02",
+    "description": "Đón khách, làm thủ tục nhận và trả phòng, ca đêm có phụ cấp."
+  },
+  {
+    "id": 42,
+    "title": "Trợ lý thư viện",
+    "company": "Thư Viện Tri Thức",
+    "location": "Hà Nội",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 4000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Sắp xếp sách",
+      "Phần mềm thư viện",
+      "Cẩn thận"
+    ],
+    "postedAt": "2026-11-01",
+    "description": "Mượn trả sách, sắp xếp kệ và hỗ trợ bạn đọc tra cứu, làm 4 giờ mỗi ngày."
+  },
+  {
+    "id": 43,
+    "title": "Gia sư Vẽ cho trẻ em",
+    "company": "Họa Sĩ Nhí",
+    "location": "Cần Thơ",
+    "type": "Bán thời gian",
+    "level": "Middle",
+    "salaryMin": 4000000,
+    "salaryMax": 7000000,
+    "skills": [
+      "Hội họa",
+      "Dạy trẻ em",
+      "Sáng tạo"
+    ],
+    "postedAt": "2026-10-31",
+    "description": "Hướng dẫn lớp vẽ cuối tuần cho trẻ 5–10 tuổi, vật liệu do trung tâm cung cấp."
+  },
+  {
+    "id": 44,
+    "title": "Nhân viên bán bánh ngọt",
+    "company": "Tiệm Bánh Vani",
+    "location": "Đà Nẵng",
+    "type": "Bán thời gian",
+    "level": "Junior",
+    "salaryMin": 4000000,
+    "salaryMax": 6000000,
+    "skills": [
+      "Bán hàng",
+      "Trưng bày bánh",
+      "Vệ sinh thực phẩm"
+    ],
+    "postedAt": "2026-10-30",
+    "description": "Bán hàng, gói bánh và giữ quầy gọn gàng, ca sáng bắt đầu từ 6:30."
+  }
+]
